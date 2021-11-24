@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "221fded3-b784-a586-b139-1d87009d8990"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physics of Solids I",
+  "course_description": "This course offers an introduction to the basic concepts of the quantum theory of solids.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.231",
+  "learning_resource_types": [
+    "Simulations",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
